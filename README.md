@@ -1,23 +1,5 @@
 # Token Tester
 
-### :sparkles: *Test a variety of unconventional tokens against your smart contracts* :sparkles:
-
-"Wow, it's just a modifier? Now that's *ergonomic*"
-
--chad dev
-
----
-
-![image](https://user-images.githubusercontent.com/98790946/221658638-6614ab47-970f-4590-898b-99da45b431e5.png)
-
-"What do you mean you only tested with USDC?"
-
--anon anime-pfp
-
-
-
----
-
 ## Get Started & Usage
 
 Install *token-tester*:
